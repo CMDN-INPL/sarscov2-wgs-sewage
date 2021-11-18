@@ -1,1 +1,1 @@
-# sarscov2-wgs-eDNA
+# sarscov2-wgs-sewage
